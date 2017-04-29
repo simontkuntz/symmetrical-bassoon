@@ -5,7 +5,7 @@ import javax.swing.*;
 public class GradeCalcMain extends JFrame
 {
     public GradeCalcMain()
-    {
+    {							//testing that this commits
         getContentPane().add(new GradeCalcPanel());
         //register 'Exit upon closing' as a default close operation
         setDefaultCloseOperation( EXIT_ON_CLOSE );
